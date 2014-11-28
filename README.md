@@ -1,4 +1,4 @@
 cd
 ==
 
-continuous deployment project
+continuous deployment
